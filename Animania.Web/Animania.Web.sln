@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animania.Web", "Animania.Web\Animania.Web.csproj", "{A41C830B-8A3B-4E52-A5BF-E588FB28503C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animania.Web.Tests", "Animania.Web.Tests\Animania.Web.Tests.csproj", "{F4839438-6159-4B5F-872C-C9FA0AC3550B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41C830B-8A3B-4E52-A5BF-E588FB28503C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41C830B-8A3B-4E52-A5BF-E588FB28503C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41C830B-8A3B-4E52-A5BF-E588FB28503C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41C830B-8A3B-4E52-A5BF-E588FB28503C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4839438-6159-4B5F-872C-C9FA0AC3550B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4839438-6159-4B5F-872C-C9FA0AC3550B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4839438-6159-4B5F-872C-C9FA0AC3550B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4839438-6159-4B5F-872C-C9FA0AC3550B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
